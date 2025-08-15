@@ -1,14 +1,21 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm navajyoth-puthalath</h1>
-<h3 align="center">A passionate mechine learing based on computer vision from India</h3>
+<h1 align="center">Hi 👋, I'm Navajyoth Puthalath</h1>
+<h3 align="center">Design Intern @ Pupilfirst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navajyoth-puthalath13&label=Profile%20views&color=0e75b6&style=flat" alt="navajyoth-puthalath13" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=navajyoth-puthalath13&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <a href="https://twitter.com/puthalth" target="blank"><img src="https://img.shields.io/twitter/follow/puthalth?logo=twitter&style=for-the-badge" alt="puthalth" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/puthalth" target="blank">
+    <img src="https://img.shields.io/twitter/follow/puthalth?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [EqualEyes](https://github.com/navajyoth-puthalath13/EqualEyes)
+- 🎯 **Currently working on:** [LearnLoop]([https://github.com/your-link-here](https://www.figma.com/community/plugin/1524746586065597954)) — my first Figma plugin to help designers learn essential UI vocabulary   
+- 🌍 **From:** India  
 
-- 🌱 I’m currently learning **opencv,mediapipe,ML**
+---
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
