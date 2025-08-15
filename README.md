@@ -12,7 +12,7 @@
   </a>
 </p>
 
-- 🎯 **Currently working on:** [LearnLoop]([https://github.com/your-link-here](https://www.figma.com/community/plugin/1524746586065597954)) — my first Figma plugin to help designers learn essential UI vocabulary   
+- 🎯 **Currently working on:** [LearnLoop]([https://github.com/your-link-here](https://www.figma.com/community/plugin/1524746586065597954)) — first Figma plugin to help designers learn essential UI vocabulary   
 - 🌍 **From:** India  
 
 ---
